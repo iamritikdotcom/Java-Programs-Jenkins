@@ -5,5 +5,7 @@ public class Main{
         System.out.println("Hello");
         System.out.println("Added one more line");
         System.out.println("Added one more line");
+        student S1 = new student();
+        S1.sayHello();
     }
 }
